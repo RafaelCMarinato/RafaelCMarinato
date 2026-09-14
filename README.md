@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Rafael! I automate workflows, build systems, and secure the rest.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&width=435&lines=Hi%2C+I'm+Rafael!+%F0%9F%91%8B;I+automate+workflows+%E2%9A%99%EF%B8%8F;I+build+systems+%F0%9F%92%BB;And+I+secure+the+rest+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 ---
 ### 💭 Me: Service Desk & Cyber Sec Intern at @LEDS | Information Systems Undergraduate at IFES.
 ---
