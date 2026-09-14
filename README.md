@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hi, I'm Rafael! I automate workflows, build systems, and secure the rest.
+---
+### 💭 Me: Service Desk & Cyber Sec Intern at @LEDS | Information Systems Undergraduate at IFES.
+---
 
-<!--
-**RafaelCMarinato/RafaelCMarinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 DEVELOPMENT
+---
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,github,githubactions,bash,linux" alt="My Skills" />
+</p>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 SOCIAL
+---
+<br>
+<p align="center">
+  <a href="mailto:rmarinato7@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/rafael-marinato-9a50931b6">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/383052126504615940">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
